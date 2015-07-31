@@ -5,4 +5,3 @@
 <img src="mfc1-2.png"></br>
 <img src="mfc1-3.png"></br>
 <img src="mfc1-4.png"></br>
-<img src="mfc1-5.png"></br>
